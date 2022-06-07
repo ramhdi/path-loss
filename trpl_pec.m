@@ -1,10 +1,9 @@
 % Two-ray path loss calculator
+% for perfect electric conductor plane (sigma = infty)
 % f = frequency in Hz
 % d = distance in m
 % ht = transmitter height in m
 % hr = receiver height in m
-% er = plane relative permittivity
-% sigma = plane conductivity in S/m
 % pol = wave polarization, 'h' for horizontal or 'v' for vertical
 % returns path loss in dB
 % ramhdi, 07/06/2022
